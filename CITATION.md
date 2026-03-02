@@ -6,7 +6,7 @@ If you reference UCS v1.2, the Emergent Judgment Protocol, or this work on “Ju
 
 Recommended short credit line:
 
-> UCS v1.2 / Judgment Preservation in Persistent AI Agents — W. Kyle Million (IntuiTek¹), Feb 28 2026. Canonical: https://github.com/<OWNER>/ucs-judgment-preservation
+> UCS v1.2 / Judgment Preservation in Persistent AI Agents — W. Kyle Million (IntuiTek¹), Feb 28 2026. Canonical: https://github.com/thebrierfox/ucs-judgment-preservation
 
 ## Citation (draft)
 
